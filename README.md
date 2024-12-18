@@ -122,4 +122,4 @@ We welcome contributions! Follow these steps:
 ## Contact
 For questions or suggestions, contact:
 - **Email**: vickygovekarreal@gmail.com
-- **GitHub**: [yourusername](https://github.com/vickygovekar)
+- **GitHub**: [vickygovekar](https://github.com/vickygovekar)
